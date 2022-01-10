@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tnwoodard@gmail.com
+	name = Tempestt Woodard
