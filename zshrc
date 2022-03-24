@@ -66,3 +66,5 @@ export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
 export EDITOR=code
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
